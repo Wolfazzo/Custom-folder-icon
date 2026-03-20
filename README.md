@@ -1,5 +1,6 @@
-# Custom-folder-icon
+# Custom-folder-icon KOREADER+PROJECTTITLE
 Choose a custom folder icon from dedicated folder
+ONLY FOR PROJECT TITLE
 
 I created this plugin to quickly replace folder images on the fly. This way you don’t have to manually add an image, rename it to folder, and add a dot to the filename to hide it from the library. Just long‑press on a folder and choose “Folder icon”. It will open the KOReader directory.
 
